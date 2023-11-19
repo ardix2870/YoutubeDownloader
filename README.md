@@ -1,5 +1,5 @@
 # YoutubeDownloader
-python script for download Youtube videos and playlist.
+python script to download Youtube videos and playlist.
 
 This program uses the library so before using it it is essential to install the library on your PC
 
