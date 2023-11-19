@@ -1,7 +1,7 @@
 # YoutubeDownloader
 python script to download Youtube videos and playlist.
 
-This program uses the library so before using it it is essential to install the library on your PC
+This program uses the pytube so before using it it is essential to install the library on your PC
 
 To install pytube, run the following command in your terminal:
 
