@@ -1,14 +1,32 @@
-# YoutubeDownloader
-python script to download Youtube videos and playlist.
+# YouTube Downloader
 
-This program uses the pytube so before using it it is essential to install the library on your PC
+This Python script allows users to download YouTube videos and playlists effortlessly.
 
-To install pytube, run the following command in your terminal:
+## Prerequisites
+Before using this script, it is essential to have the `pytube` library installed on your machine. To install it, run the following command in your terminal:
 
-    $ pip install pytube
+```bash
+$ pip install pytube
+```
+For any questions or further information about pytube, please visit the official documentation.
 
-                    
-FOR ANY QUESTION VISIT THIS LINK https://pytube.io/en/latest/
+### Usage
+- Clone the repository to your local machine:
+```bash
+$ git clone https://github.com/your-username/YouTubeDownloader.git
+$ cd YouTubeDownloader
+```
+- Install the required dependencies:
+```bash
+$ pip install -r requirements.txt
+```
+- Run the script:
+```bash
+$ python youtube_downloader.py
+```
+Feedback and Contributions
+I hope you find this script helpful! If you have any advice or encounter issues, please open an issue on GitHub. Your feedback is highly appreciated.
 
-I hope you like it !! 
-If you have any advice or feedback don't hesitate to let me know <3
+If you'd like to contribute to the project, please follow the contribution guidelines.
+
+Thank you for using YouTube Downloader! 😊🎉
